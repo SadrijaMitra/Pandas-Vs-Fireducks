@@ -16,7 +16,7 @@ We applied real-world data operations on a **Wine Reviews** dataset to compare e
 ## 📦 Dataset Used
 
 - **Name:** winemag-data-130k-v2.csv  
-- **Source:** [Kaggle – Wine Reviews](https://www.kaggle.com/datasets/zynicide/wine-reviews)
+- **Source:** [https://gist.github.com/clairehq/79acab35be50eaf1c383948ed3fd1129]
 
 You can download and upload this dataset to Google Colab for smooth execution.
 
